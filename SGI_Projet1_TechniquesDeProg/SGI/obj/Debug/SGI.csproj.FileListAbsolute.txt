@@ -1,0 +1,6 @@
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\SGI\obj\Debug\SGI.csprojResolveAssemblyReference.cache
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\SGI\bin\Debug\SGI.dll
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\SGI\bin\Debug\SGI.pdb
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\SGI\obj\Debug\SGI.dll
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\SGI\obj\Debug\SGI.pdb
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\SGI\obj\Debug\SGI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\obj\Debug\GalerieArtSGI.csprojResolveAssemblyReference.cache
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\bin\Debug\GalerieArtSGI.exe.config
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\bin\Debug\GalerieArtSGI.exe
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\bin\Debug\GalerieArtSGI.pdb
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\bin\Debug\SGI.dll
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\bin\Debug\SGI.pdb
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\obj\Debug\GalerieArtSGI.exe
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\obj\Debug\GalerieArtSGI.pdb
+G:\CDI\WIP\SGI_Projet1_TechniquesDeProg\GalerieArtSGI\obj\Debug\GalerieArtSGI.csproj.CoreCompileInputs.cache
